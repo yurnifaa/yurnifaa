@@ -50,7 +50,7 @@
 
 <br/>
 
-<h2 align="center">📊 <em>Statistics</em></h2>
+<h2 align="center"> <img src="graph.svg" width="25"/> <em>Statistics</em></h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurnifaa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
