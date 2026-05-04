@@ -1,4 +1,4 @@
-<img src="githubanner.JPG" width="100%" style="max-height: 220px; object-fit: cover;"/>
+<img src="githubanner.jpg" width="100%" style="max-height: 220px; object-fit: cover;"/>
 
 <p align="center">
   <a href="https://www.instagram.com/yurnifaa" target="_blank">
