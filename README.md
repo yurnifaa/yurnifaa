@@ -21,12 +21,12 @@
   Hello there! <em><b>I'm Jana Del Rosario</b></em>, a 3rd year Computer Science student at Pamantasan ng Lungsod ng Maynila (PLM). I'm currently enhancing my abilities in frontend development and building projects that help me grow as a developer. I enjoy turning ideas into clean, functional interfaces and I'm always looking for new things to learn.
 </p>
 
-<br/>
+<br clear="right"/>
 
 <p align="center">
-   🔹 <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
-   🔹 <em><b>Keen eye on creativity and a passion for crafting visually engaging experiences</b></em><br/>
-   🧩 <em><b>Rubik's Cube Enthusiast</b></em><br/>
+   <img src="school.svg" width="15"/>   <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
+   <img src="palette.svg" width="15"/>   <em><b>Keen eye on creativity and a passion for crafting visually engaging experiences</b></em><br/>
+   <img src="game.svg" width="15"/>   <em><b>Rubik's Cube Enthusiast</b></em><br/>
 </p>
 
 <br/>
