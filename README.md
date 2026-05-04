@@ -11,7 +11,7 @@
 
 <br>
 
-<h2 align="center">✨ <em>About Me</em></h2>
+<h2 align="center"> <img src="skull.svg" width="25"/> <em>About Me</em></h2>
 
 <img src="spiderman.gif" width="250" align="right" style="margin-left: 20px;" />
 
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 
-<h2 align="center">🛠️ <em>Technologies</em></h2>
+<h2 align="center"> <img src="tech.svg" width="25"/> <em>Technologies</em></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,4 +47,11 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+<br/>
+
+<h2 align="center">📊 <em>Statistics</em></h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurnifaa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
