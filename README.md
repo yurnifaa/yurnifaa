@@ -13,7 +13,7 @@
 
 <h2 align="center"> <img src="skull.svg" width="25"/> <em>About Me</em></h2>
 
-<img src="spiderman.gif" width="180" align="right" style="margin-left: 20px;" />
+<img src="spiderman.gif" width="200" align="right" style="margin-left: 20px;" />
 
 <br/>
 
