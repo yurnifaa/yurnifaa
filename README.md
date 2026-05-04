@@ -13,7 +13,7 @@
 
 <h2 align="center"> <img src="skull.svg" width="25"/> <em>About Me</em></h2>
 
-<img src="spiderman.gif" width="100" align="right" style="margin-left: 20px;" />
+<img src="spiderman.gif" width="180" align="right" style="margin-left: 20px;" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <br clear="right"/>
 
-<p align="right">
+<p align="left">
    <img src="school.svg" width="15"/>   <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
    <img src="palette.svg" width="15"/>   <em><b>Keen eye on creativity and a passion for crafting visually engaging experiences</b></em><br/>
    <img src="game.svg" width="15"/>   <em><b>Rubik's Cube Enthusiast</b></em><br/>
