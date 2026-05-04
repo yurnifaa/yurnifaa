@@ -24,9 +24,9 @@
 <br/>
 
 <p align="center">
-   🔹 <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
-   🔹 <em><b>Keen eye on creativity and a passion for crafting visually engaging experiences</b></em><br/>
-   🧩 <em><b>Rubik's Cube Enthusiast</b></em><br/>
+   <img src="school.svg" width="15"/>   <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
+   <img src="palette.svg" width="15"/>   <em><b>Keen eye on creativity and a passion for crafting visually engaging experiences</b></em><br/>
+   <img src="game.svg" width="15"/>   <em><b>Rubik's Cube Enthusiast</b></em><br/>
 </p>
 
 <br/>
@@ -50,7 +50,7 @@
 
 <br/>
 
-<h2 align="center"> <img src="graph.svg" width="25"/> <em>Statistics</em></h2>
+<h2 align="center">📊 <em>Statistics</em></h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurnifaa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
