@@ -47,11 +47,3 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-<br/>
-
-<h2 align="center"> <img src="graph.svg" width="25"/> <em>Statistics</em></h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurnifaa&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-</div>
