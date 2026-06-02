@@ -7,13 +7,16 @@
   <a href="mailto:delrosariojana9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="mailto:delrosariojana9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 <br>
 
 <h2 align="center"> <img src="skull.svg" width="25"/> <em>About Me</em></h2>
 
-<img src="spiderman.gif" width="200" align="right" style="margin-left: 20px;" />
+<img src="QR.png" width="200" align="right" style="margin-left: 20px;" />
 
 <br/>
 
