@@ -7,7 +7,7 @@
   <a href="mailto:delrosariojana9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="mailto:delrosariojana9@gmail.com" target="_blank">
+    <a href="yurnifaa" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   Hello there! <em><b>I'm Jana Del Rosario</b></em>, a 3rd year Computer Science student in the Philippines. I'm currently enhancing my abilities in frontend development and building projects that help me grow as a developer. I enjoy turning ideas into clean, functional interfaces and I'm always looking for new things to learn.
 </p>
 
-<br clear="right"/>
+<br clear="justify"/>
 
 <p align="left">
    <img src="school.svg" width="15"/>   <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
