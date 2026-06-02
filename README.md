@@ -14,13 +14,13 @@
 
 <br>
 
-<h2 align="center"> <img src="skull.svg" width="25"/> <em>About Me</em></h2>
+<h2 align="center"> <img src="skull.svg" width="23"/> <em>About Me</em></h2>
 
 <img src="QR.png" width="200" align="right" style="margin-left: 20px;" />
 
 <br/>
 
-<p style="text-align: justify;">
+<p>
   Hello there! <em><b>I'm Jana Del Rosario</b></em>, a 3rd year Computer Science student in the Philippines. I'm currently enhancing my abilities in frontend development and building projects that help me grow as a developer. I enjoy turning ideas into clean, functional interfaces and I'm always looking for new things to learn.
 </p>
 
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-<h2 align="center"> <img src="tech.svg" width="25"/> <em>Technologies</em></h2>
+<h2 align="center"> <img src="tech.svg" width="23"/> <em>Technologies</em></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
