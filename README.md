@@ -21,7 +21,7 @@
 <br/>
 
 <p>
-  Hello there! <em><b>I'm Jana Del Rosario</b></em>, a 3rd year Computer Science student in the Philippines. I'm currently enhancing my abilities in frontend development and building projects that help me grow as a developer. I enjoy turning ideas into clean, functional interfaces and I'm always looking for new things to learn.
+  Hello there! <em><b>I'm Jana Del Rosario</b></em>, a 3rd year Computer Science student in the Philippines. I'm currently enhancing my abilities in full stack development and building projects that help me grow as a developer. I enjoy turning ideas into clean, functional interfaces and I'm always looking for new things to learn.
 </p>
 
 <br clear="center"/>
