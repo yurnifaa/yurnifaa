@@ -27,7 +27,7 @@
 <br clear="center"/>
 
 <p align="left">
-   <img src="school.svg" width="15"/>   <em><b>Studying at Pamantasan ng Lungsod ng Maynila (PLM)</b></em><br/>
+   <img src="school.svg" width="15"/>   <em><b>2026 AGSIP and GPP Intern</b></em><br/>
    <img src="palette.svg" width="15"/>   <em><b>Keen eye on creativity and a passion for crafting visually engaging experiences</b></em><br/>
 </p>
 
